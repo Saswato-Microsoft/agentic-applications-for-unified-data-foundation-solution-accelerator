@@ -309,7 +309,7 @@ Once you've opened the project in [Codespaces](#github-codespaces), [Dev Contain
 
     | Parameter | azd env Variable | Format / Example |
     |---|---|---|
-    | `<fabric-workspaceId>` | *(user-provided)* | GUID (e.g., `5bd3db28-534a-498d-a7e7-2a1e48fb3246`) |
+    | `<fabric-workspaceId>` | *(user-provided)* | GUID (e.g., `5bxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxx246`) |
     | `<solutionname>` | `SOLUTION_NAME` | Alphanumeric string (e.g., `da5fi6dninkrjn`) |
     | `<ai-foundry-name>` | `AI_SERVICE_NAME` | AI Foundry account name (e.g., `aisa-<solutionname>`) |
     | `<backend-api-mid-principal>` | `API_PID` | Managed identity Principal (Object) ID — GUID |
